@@ -1,0 +1,16 @@
+{
+  "name": "grpc-ts-examples",
+  "version": "0.1.0",
+  "dependencies": {
+    "@grpc/proto-loader": "0.5.5",
+    "google-protobuf": "3.13.0",
+    "grpc": "1.24.3",
+    "grpc-tools": "1.9.1",
+    "grpc_tools_node_protoc_ts": "4.1.5"
+  },
+  "devDependencies": {
+    "@types/google-protobuf": "3.7.3",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
